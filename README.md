@@ -14,9 +14,10 @@ I am actively preparing for *Google Summer of Code (GSoC) 2026* and learning how
    -*Tools:* Git, GitHub, Jupyter, Python ML ecosystem, Kaggle
 
 ## Hobbies & Interests
--Sketching and drawing
--Painting and visual art
--Exploring intersection of creativity and AI
+Sketching and drawing
+Painting and visual art
+Exploring intersection of creativity and AI
+
 
 
 
