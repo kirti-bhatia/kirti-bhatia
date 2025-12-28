@@ -1,7 +1,8 @@
 ## Hi, I'm Kirti 👋
-
-I am Computer Science student working on ** Machine Learning, Deep Learning, NLP and Computer Vision **, with a strong interest in * assistive AI and real-world intelligent systems*.
-My work focuses on applying AI to socially impactful domains such as *accessibility, healthcare and human centered AI*. I am currently developing a software, an assistive vision system for visually impaired users and writing a *research paper* based on this project.
+<p>
+I am Computer Science student working on **Machine Learning, Deep Learning, NLP and Computer Vision**, with a strong interest in *assistive AI and real-world intelligent systems*.
+</p>
+My work focuses on applying AI to socially impactful domains such as *accessibility, healthcare and human centered AI*. I am currently developing a software, an assistive vision system for visually impaired users and writing a *research paper* based on this project.  
 I am actively preparing for *Google Summer of Code (GSoC) 2026* and learning how to contribute effectively to open-source communities.
 
 ## Technical Skills
